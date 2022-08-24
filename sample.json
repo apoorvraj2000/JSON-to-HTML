@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "password": "Pass1",
+      "product": "laptop",
+      "userName": "User1",
+      "authId": "10000001"
+    },
+    {
+      "password": "Pass2",
+      "product": "mobile",
+      "userName": "user2",
+      "authId": "10000002"
+    },
+    {
+      "password": "Pass3",
+      "product": "tablet",
+      "userName": "user3",
+      "authId": "10000003"
+    },
+    {
+      "password": "Pass4",
+      "product": "PC",
+      "userName": "user4",
+      "authId": "10000004"
+    },
+    {
+      "password": "Pass5",
+      "product": "CPU",
+      "userName": "user5",
+      "authId": "10000005"
+    },
+    {
+      "password": "Pass6",
+      "product": "AC",
+      "userName": "user6",
+      "authId": "10000006"
+    },
+    {
+      "password": "Pass7",
+      "product": "RO",
+      "userName": "user7",
+      "authId": "10000007"
+    }
+  ]
+}
